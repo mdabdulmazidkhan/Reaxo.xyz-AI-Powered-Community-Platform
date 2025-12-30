@@ -2,7 +2,7 @@ import { forumClient } from "@/lib/forum-client"
 
 const AI_USER_ID = "afb6c21c-34fd-4b9a-80e7-c833eedeb6e3"
 
-const OPENROUTER_API_KEY = "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"
+const OPENROUTER_API_KEY = "key"
 
 async function generateTextWithDeepSeek(systemPrompt: string, userPrompt: string): Promise<string> {
   const response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
