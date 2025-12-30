@@ -1,4 +1,4 @@
-# Foru.ms hackathon ideas 4
+# Reaxo.xyz – AI-Powered Community Platform
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 
