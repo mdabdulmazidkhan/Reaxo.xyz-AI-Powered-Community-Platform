@@ -24,14 +24,3 @@ The platform is designed to be **AI-ready**, allowing future features like smart
 
 Check out Reaxo.xyz and join the beta: [https://reaxo.xyz](https://reaxo.xyz)  
 
-We built this as a **hackathon submission** and are excited to see how the community grows and evolves!
-
-
-**[https://v0.app/chat/c9VtWrHT8Jm](https://v0.app/chat/c9VtWrHT8Jm)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
