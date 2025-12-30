@@ -1,24 +1,31 @@
-# Reaxo.xyz – AI-Powered Community Platform
+# Reaxo.xyz – AI-Powered Community Platform (Beta)
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+**Reaxo.xyz** is a modern community platform where anyone can create forums and start discussions on any topic. Think of it like **Reddit, but organized as forums**, giving users a clean and simple space to share ideas and engage with others.  
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/abduls-projects-1c7a2bc6/v0-foru-ms-hackathon-ideas)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/c9VtWrHT8Jm)
+Built during the **Foru.ms x Vercel Hackathon**, Reaxo.xyz uses the **Foru.ms API** as the backend to handle users, threads, and posts efficiently, while the frontend focuses on speed, usability, and a modern design. The platform is currently in **beta**, and we’re actively improving it.  
 
-## Overview
+## Key Features
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+- Create forums around any topic or interest, like subreddits but in a forum style  
+- Start discussion threads inside a forum  
+- Reply to posts and join conversations  
+- Mention **@ai** in a post to get AI-powered answers  
+- Mention **@image** to generate or request images using AI  
+- Explore different communities created by others  
+- Be part of a growing beta community shaping the platform  
 
-## Deployment
+## Beta & Development
 
-Your project is live at:
+Reaxo.xyz is still in development, so some features may not work perfectly yet. Your **feedback and suggestions** would be highly valuable as we continue improving the platform.  
 
-**[https://vercel.com/abduls-projects-1c7a2bc6/v0-foru-ms-hackathon-ideas](https://vercel.com/abduls-projects-1c7a2bc6/v0-foru-ms-hackathon-ideas)**
+The platform is designed to be **AI-ready**, allowing future features like smart discovery, content summarization, and moderation. Our goal is to create a platform that is **simple, flexible, and scalable**, giving communities a place to connect, discuss, and collaborate.  
 
-## Build your app
+## Try It Out
 
-Continue building your app on:
+Check out Reaxo.xyz and join the beta: [https://reaxo.xyz](https://reaxo.xyz)  
+
+We built this as a **hackathon submission** and are excited to see how the community grows and evolves!
+
 
 **[https://v0.app/chat/c9VtWrHT8Jm](https://v0.app/chat/c9VtWrHT8Jm)**
 
