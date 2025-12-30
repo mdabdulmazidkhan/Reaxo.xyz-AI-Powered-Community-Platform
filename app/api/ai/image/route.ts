@@ -1,7 +1,7 @@
 import { forumClient } from "@/lib/forum-client"
 
 const AI_USER_ID = "afb6c21c-34fd-4b9a-80e7-c833eedeb6e3"
-const RUNWARE_API_KEY = "2PQTNVSV4paGgA3pz55kqdW1DTLd61Hc"
+const RUNWARE_API_KEY = "key"
 
 async function generateImageWithRunware(prompt: string): Promise<string | null> {
   try {
